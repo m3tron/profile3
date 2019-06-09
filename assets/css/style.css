@@ -260,10 +260,6 @@ li {
   color: #4267b2;
 }
 
-.fa-twitter-square:hover {
-  color: #38a1f3;
-}
-
 .fa-github-square:hover {
   color: black;
 }
@@ -318,6 +314,17 @@ li {
 /*contact*/
 .contact {
   background: none;
+}
+
+.form-message {
+  text-align: center;
+  font-size: 2rem;
+  color: #f0bd60;
+}
+
+#my-email {
+  color: #ae6744;
+  cursor: pointer;
 }
 
 form {
